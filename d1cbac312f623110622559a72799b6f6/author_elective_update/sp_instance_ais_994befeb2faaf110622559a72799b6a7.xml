@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">717b35312fa63110622559a72799b6f8</sp_column>
+        <sp_widget display_value="Catalog Homepage Search">e709a97287580300e0ef0cf888cb0bdd</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-23 05:00:08</sys_created_on>
+        <sys_id>994befeb2faaf110622559a72799b6a7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_update_name>sp_instance_ais_994befeb2faaf110622559a72799b6a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-23 05:00:18</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=994befeb2faaf110622559a72799b6a7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PawPoint">d1cbac312f623110622559a72799b6f6</application>
+        <file_path/>
+        <instance_id>cc569751dbce73c407072f17d496191f</instance_id>
+        <instance_name>dev87228</instance_name>
+        <name>sp_instance_ais_994befeb2faaf110622559a72799b6a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>1</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>md</size><sp_column display_value="1">717b35312fa63110622559a72799b6f8</sp_column><sp_widget display_value="Catalog Homepage Search">e709a97287580300e0ef0cf888cb0bdd</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-23 05:00:08</sys_created_on><sys_id>994befeb2faaf110622559a72799b6a7</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package><sys_policy/><sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope><sys_update_name>sp_instance_ais_994befeb2faaf110622559a72799b6a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-23 05:00:18</sys_updated_on><title/><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=994befeb2faaf110622559a72799b6a7"/></record_update>]]></payload>
+        <payload_hash>1336329006</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>11cbac312f623110622559a72799b6f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-23 05:00:18</sys_created_on>
+        <sys_id>b74ba72f2faaf110622559a72799b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bfa8ce26c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-23 05:00:18</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>bf4ba72fabaaf1100ebc667779f6db5c</update_guid>
+        <update_guid_history>bf4ba72fabaaf1100ebc667779f6db5c:1336329006,194b672f51aaf110cf16ce912f3977bb:859042287</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">565b2feb2faaf110622559a72799b6af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-23 05:00:29</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>bd2ad1927c4b47969e8f8216891dc979</sys_id>
+        <sys_metadata>994befeb2faaf110622559a72799b6a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_scope_delete display_value="">565859c474574356a3403de7972a8224</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_994befeb2faaf110622559a72799b6a7</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_994befeb2faaf110622559a72799b6a7">b74ba72f2faaf110622559a72799b65d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-23 05:00:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

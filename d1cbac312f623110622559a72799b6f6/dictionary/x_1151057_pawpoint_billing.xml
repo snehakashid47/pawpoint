@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e62c78bb2feef110622559a72799b680" extends="x_1151057_pawpoint_pet_details" label="Billing" max_length="40" name="x_1151057_pawpoint_billing" type="collection">
+        <element label="Amount Payable" max_length="20" name="amount_payable" type="currency"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Payment Status" max_length="30" name="payment_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Paid" value="Paid"/>
+                <element inactive_on_update="false" label="UnPaid" value="Unpaid"/>
+            </choice>
+        </element>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Receipt Number" max_length="40" name="receipt_number" type="string" use_dynamic_default="true"/>
+        <element label="Treated By" max_length="40" name="treated_by" type="string"/>
+        <element label="Treatment Synopsis" max_length="150" name="treatment_synopsis" type="string"/>
+    </element>
+</database>

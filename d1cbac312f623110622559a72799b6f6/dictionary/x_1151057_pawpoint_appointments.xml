@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="058370792f623110622559a72799b692" label="Appointments" max_length="40" name="x_1151057_pawpoint_appointments" type="collection">
+        <element choice="1" default="open" label="Appointment Status" max_length="40" name="apoointment_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AutoClosed" value="autoclosed"/>
+                <element inactive_on_update="false" label="Closed" value="closed"/>
+                <element inactive_on_update="false" label="Open" value="open"/>
+            </choice>
+        </element>
+        <element label="Appointment Date" max_length="40" name="appointment_date" type="glide_date_time"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element dependent="owner_name" dependent_on_field="owner_name" display="true" label="Owner Name" max_length="32" name="owner_name" reference="x_1151057_pawpoint_owner_details" type="reference" use_dependent_field="true"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element label="Problem" max_length="200" name="problem" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Time" max_length="40" name="time" type="glide_time"/>
+        <index name="index">
+            <element name="owner_name"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

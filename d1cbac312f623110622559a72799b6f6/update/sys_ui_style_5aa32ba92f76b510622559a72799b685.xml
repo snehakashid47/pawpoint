@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>email_address</element>
+        <name>x_1151057_pawpoint_owner_details</name>
+        <style>background-color:#99bbff;&#13;
+</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 09:34:56</sys_created_on>
+        <sys_id>5aa32ba92f76b510622559a72799b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1151057_pawpoint_owner_details</sys_name>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_update_name>sys_ui_style_5aa32ba92f76b510622559a72799b685</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 09:34:56</sys_updated_on>
+        <themed_style/>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=5aa32ba92f76b510622559a72799b685"/>
+</record_update>

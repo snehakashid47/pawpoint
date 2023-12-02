@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Demo">c3166ba72faaf110622559a72799b66e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Demos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1151057_pawpoint_demo</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1151057_pawpoint.demo_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-23 04:37:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>13166ba72faaf110622559a72799b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_update_name>sys_app_module_13166ba72faaf110622559a72799b672</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-23 04:37:36</sys_updated_on>
+        <timeline_page/>
+        <title>Demos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PawPoint">d1cbac312f623110622559a72799b6f6</application>
+        <file_path/>
+        <instance_id>cc569751dbce73c407072f17d496191f</instance_id>
+        <instance_name>dev87228</instance_name>
+        <name>sys_app_module_13166ba72faaf110622559a72799b672</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Demo">c3166ba72faaf110622559a72799b66e</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Demos</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1151057_pawpoint_demo</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_1151057_pawpoint.demo_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-23 04:37:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>13166ba72faaf110622559a72799b672</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demos</sys_name><sys_overrides/><sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package><sys_policy/><sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope><sys_update_name>sys_app_module_13166ba72faaf110622559a72799b672</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-23 04:37:36</sys_updated_on><timeline_page/><title>Demos</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1694535475</payload_hash>
+        <record_name>Demos</record_name>
+        <reverted_from/>
+        <source>11cbac312f623110622559a72799b6f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-23 04:37:36</sys_created_on>
+        <sys_id>97166ba72faaf110622559a72799b675</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bfa781a070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-23 04:37:36</sys_updated_on>
+        <type>Module</type>
+        <update_guid>db166ba725aaf1102d540337a7afa274</update_guid>
+        <update_guid_history>db166ba725aaf1102d540337a7afa274:-1694535475</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Demos">af466fa72faaf110622559a72799b688</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-23 04:38:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>187bd61b08ed46f0a78dc50b9a06bec4</sys_id>
+        <sys_metadata>13166ba72faaf110622559a72799b672</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demos</sys_name>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_scope_delete display_value="">565859c474574356a3403de7972a8224</sys_scope_delete>
+        <sys_update_name>sys_app_module_13166ba72faaf110622559a72799b672</sys_update_name>
+        <sys_update_version display_value="sys_app_module_13166ba72faaf110622559a72799b672">97166ba72faaf110622559a72799b675</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-23 04:38:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

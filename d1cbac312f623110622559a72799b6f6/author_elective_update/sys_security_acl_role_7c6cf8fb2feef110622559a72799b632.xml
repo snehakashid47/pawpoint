@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-23 10:54:33</sys_created_on>
+        <sys_id>7c6cf8fb2feef110622559a72799b632</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1151057_pawpoint_billing.x_1151057_pawpoint.Doctors</sys_name>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_security_acl display_value="x_1151057_pawpoint_billing">f06cf8fb2feef110622559a72799b62f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7c6cf8fb2feef110622559a72799b632</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-23 11:00:28</sys_updated_on>
+        <sys_user_role display_value="x_1151057_pawpoint.Doctors" name="x_1151057_pawpoint.Doctors">7758e4f72faef110622559a72799b6b8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PawPoint">d1cbac312f623110622559a72799b6f6</application>
+        <file_path/>
+        <instance_id>cc569751dbce73c407072f17d496191f</instance_id>
+        <instance_name>dev87228</instance_name>
+        <name>sys_security_acl_role_7c6cf8fb2feef110622559a72799b632</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-23 10:54:33</sys_created_on><sys_id>7c6cf8fb2feef110622559a72799b632</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1151057_pawpoint_billing.x_1151057_pawpoint.Doctors</sys_name><sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package><sys_policy/><sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope><sys_security_acl display_value="x_1151057_pawpoint_billing">f06cf8fb2feef110622559a72799b62f</sys_security_acl><sys_update_name>sys_security_acl_role_7c6cf8fb2feef110622559a72799b632</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-23 11:00:28</sys_updated_on><sys_user_role display_value="x_1151057_pawpoint.Doctors" name="x_1151057_pawpoint.Doctors">7758e4f72faef110622559a72799b6b8</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1881568903</payload_hash>
+        <record_name>x_1151057_pawpoint_billing.x_1151057_pawpoint.Doctors</record_name>
+        <reverted_from/>
+        <source>11cbac312f623110622559a72799b6f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-23 11:00:29</sys_created_on>
+        <sys_id>a7bd387f2feef110622559a72799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bfbd6a0de0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-23 11:00:29</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>afbd387f07eef110af540350d3c424bd</update_guid>
+        <update_guid_history>afbd387f07eef110af540350d3c424bd:-1881568903,fc6cf8fb2ceef1104c2b453f28de5234:1047571227</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1151057_pawpoint_billing.x_1151057_pawpoint.Doctors">63bc5c8d2fbaf110622559a72799b609</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 05:48:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3b401eff6cdc4eb99b8f3126456df1a1</sys_id>
+        <sys_metadata>7c6cf8fb2feef110622559a72799b632</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1151057_pawpoint_billing.x_1151057_pawpoint.Doctors</sys_name>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_scope_delete display_value="">565859c474574356a3403de7972a8224</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7c6cf8fb2feef110622559a72799b632</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7c6cf8fb2feef110622559a72799b632">a7bd387f2feef110622559a72799b6be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 05:48:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

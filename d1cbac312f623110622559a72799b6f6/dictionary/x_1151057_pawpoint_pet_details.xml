@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="25dd64f12f623110622559a72799b66f" label="Pet Details" max_length="40" name="x_1151057_pawpoint_pet_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="species" dependent_on_field="species" label="Breed" max_length="40" name="breed" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Cat" inactive_on_update="false" label="American Shorthair" value="American Shorthair"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="Beagle" value="Beagle"/>
+                <element dependent_value="Cat" inactive_on_update="false" label="Bombay" value="Bombay"/>
+                <element dependent_value="Cat" inactive_on_update="false" label="British Longhair" value="British Longhair"/>
+                <element dependent_value="Cat" inactive_on_update="false" label="British Shorthair" value="British Shorthair"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="Doberman" value="Doberman"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="French Bulldog" value="French Bulldog"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="German Shepherd" value="German Shepherd"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="Golden Retriever" value="Golden Retriever"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="Labrador" value="Labrador"/>
+                <element inactive_on_update="false" label="Other" value="Other"/>
+                <element dependent_value="Cat" inactive_on_update="false" label="Persian" value="Persian"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="Poodle" value="Poodle"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="Pug" value="Pug"/>
+                <element dependent_value="Dog" inactive_on_update="false" label="Rottweiler" value="Rottweiler"/>
+                <element dependent_value="Cat" inactive_on_update="false" label="Siamese" value="Siamese"/>
+                <element dependent_value="Cat" inactive_on_update="false" label="The Burmese Cat" value="The Burmese Cat"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" mandatory="true" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" value="female"/>
+                <element inactive_on_update="false" label="Male" value="male"/>
+            </choice>
+        </element>
+        <element attributes="autocomplete=false,encode_utf8=false" label="Owner's Name" mandatory="true" max_length="32" name="id" reference="x_1151057_pawpoint_owner_details" reference_qual="idSAMEASid^EQ" reference_qual_condition="idSAMEASid^EQ" type="reference"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Species" mandatory="true" max_length="40" name="species" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cat" value="cat"/>
+                <element inactive_on_update="false" label="Dog" value="dog"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="id"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

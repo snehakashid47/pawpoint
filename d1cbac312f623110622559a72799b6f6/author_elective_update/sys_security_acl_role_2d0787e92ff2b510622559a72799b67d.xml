@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 07:31:05</sys_created_on>
+        <sys_id>2d0787e92ff2b510622559a72799b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1151057_pawpoint.Pet_Owners</sys_name>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_security_acl display_value="">d3f60be92ff2b510622559a72799b6f2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2d0787e92ff2b510622559a72799b67d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 07:31:05</sys_updated_on>
+        <sys_user_role display_value="x_1151057_pawpoint.Pet_Owners" name="x_1151057_pawpoint.Pet_Owners">79a52d042ff23110622559a72799b6c6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PawPoint">d1cbac312f623110622559a72799b6f6</application>
+        <file_path/>
+        <instance_id>cc569751dbce73c407072f17d496191f</instance_id>
+        <instance_name>dev87228</instance_name>
+        <name>sys_security_acl_role_2d0787e92ff2b510622559a72799b67d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-29 07:31:05</sys_created_on><sys_id>2d0787e92ff2b510622559a72799b67d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1151057_pawpoint.Pet_Owners</sys_name><sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package><sys_policy/><sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope><sys_security_acl display_value="">d3f60be92ff2b510622559a72799b6f2</sys_security_acl><sys_update_name>sys_security_acl_role_2d0787e92ff2b510622559a72799b67d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-29 07:31:05</sys_updated_on><sys_user_role display_value="x_1151057_pawpoint.Pet_Owners" name="x_1151057_pawpoint.Pet_Owners">79a52d042ff23110622559a72799b6c6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>204708418</payload_hash>
+        <record_name>.x_1151057_pawpoint.Pet_Owners</record_name>
+        <reverted_from/>
+        <source>11cbac312f623110622559a72799b6f8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 07:31:05</sys_created_on>
+        <sys_id>72570be92ff2b510622559a72799b64c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c19fd13ed0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 07:31:05</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b6570be915f2b510ca548ed7eb20e54b</update_guid>
+        <update_guid_history>b6570be915f2b510ca548ed7eb20e54b:204708418</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1151057_pawpoint.Pet_Owners">f135dba92f36b510622559a72799b6c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 08:31:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3527f92c351a4b32b5dced4d012bc204</sys_id>
+        <sys_metadata>2d0787e92ff2b510622559a72799b67d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1151057_pawpoint.Pet_Owners</sys_name>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_scope_delete display_value="">565859c474574356a3403de7972a8224</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_2d0787e92ff2b510622559a72799b67d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_2d0787e92ff2b510622559a72799b67d">72570be92ff2b510622559a72799b64c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 08:31:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

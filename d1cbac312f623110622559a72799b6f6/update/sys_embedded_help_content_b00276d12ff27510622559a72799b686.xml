@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1"><span class="ph uicontrol">Know the signs of medical problems. Take your pet to the veterinarian if you notice:</span></h1>
+<ul class="steps-unordered"><li class="li step">Loss of appetite</li><li>Drinking a lot of water</li><li>Gaining or losing a lot of weight quickly</li><li>Strange behavior</li><li class="li step">Being sluggish and tired</li><li class="li step">Trouble getting up or down</li><li class="li step">Strange lumps</li></ul>
+<div class="section-header">
+<div class="section-title">
+<h2>Related Issues</h2>
+</div>
+</div>
+<div id="section47" class="section-body">
+<ul class="bulletlist"><li><a title="External link: please review our privacy policy." href="https://www.avma.org/resources-tools/pet-owners/petcare/disease-precautions-dog-walkers" target="TheNewWin">Disease Precautions for Dog Walkers</a> <span class="desc-text"><span class="orgs">(American Veterinary Medical Association)</span></span></li><li><a title="External link: please review our privacy policy." href="https://www.avma.org/resources-tools/pet-owners/dog-bite-prevention" target="TheNewWin">Dog Bite Prevention</a> <span class="desc-text"><span class="orgs">(American Veterinary Medical Association)</span></span></li><li><a href="https://www.cdc.gov/healthypets/keeping-pets-and-people-healthy/how.html" target="TheNewWin">How to Stay Healthy around Pets and Other Animals</a> <span class="desc-text"><span class="orgs">(Centers for Disease Control and Prevention)</span></span></li><li><a href="https://www.cdc.gov/coronavirus/2019-ncov/animals/toolkit.html" target="TheNewWin">One Health Toolkit for Health Officials Managing Companion Animals with SARS-CoV-2</a> <span class="desc-text"><span class="orgs">(Centers for Disease Control and Prevention)</span></span></li><li class="li"><a href="https://www.cdc.gov/healthypets/keeping-pets-and-people-healthy/emergencies.html" target="TheNewWin">Pet Safety in Emergencies</a> <span class="desc-text"><span class="orgs">(Centers for Disease Control and Prevention)</span></span></li></ul>
+</div>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Appointment Form - User</name>
+        <page>x_1151057_pawpoint_appointments</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_1151057_pawpoint.Pet_Owners" name="x_1151057_pawpoint.Pet_Owners">79a52d042ff23110622559a72799b6c6</role>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 11:23:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b00276d12ff27510622559a72799b686</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Appointment Form - User</sys_name>
+        <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+        <sys_update_name>sys_embedded_help_content_b00276d12ff27510622559a72799b686</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-28 11:23:11</sys_updated_on>
+        <version>u</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=b00276d12ff27510622559a72799b686"/>
+</record_update>

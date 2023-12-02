@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="breed" table="x_1151057_pawpoint_pet_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>breed</element>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:09:29</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>breed</sys_name>
+            <sys_package display_value="PawPoint" source="x_1151057_pawpoint">d1cbac312f623110622559a72799b6f6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PawPoint">d1cbac312f623110622559a72799b6f6</sys_scope>
+            <sys_update_name>sys_choice_x_1151057_pawpoint_pet_details_breed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:09:29</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Cat</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>American Shorthair</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:25:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:25:18</sys_updated_on>
+            <value>American Shorthair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beagle</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:29:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:29:24</sys_updated_on>
+            <value>Beagle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Cat</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bombay</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:23:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:23:30</sys_updated_on>
+            <value>Bombay</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Cat</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>British Longhair</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:22:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:22:43</sys_updated_on>
+            <value>British Longhair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Cat</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>British Shorthair</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:25:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:25:49</sys_updated_on>
+            <value>British Shorthair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Doberman</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:31:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:31:58</sys_updated_on>
+            <value>Doberman</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>French Bulldog</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:20:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:20:39</sys_updated_on>
+            <value>French Bulldog</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>German Shepherd</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:21:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:21:24</sys_updated_on>
+            <value>German Shepherd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Golden Retriever</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:19:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:20:01</sys_updated_on>
+            <value>Golden Retriever</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Labrador</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:10:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:10:45</sys_updated_on>
+            <value>Labrador</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:21:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:21:51</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Cat</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Persian</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:09:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:09:52</sys_updated_on>
+            <value>Persian</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Poodle</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:30:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:30:46</sys_updated_on>
+            <value>Poodle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pug</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:29:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:29:56</sys_updated_on>
+            <value>Pug</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dog</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rottweiler</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:31:14</sys_updated_on>
+            <value>Rottweiler</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Cat</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Siamese</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:24:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:24:27</sys_updated_on>
+            <value>Siamese</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Cat</dependent_value>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Burmese Cat</label>
+            <language>en</language>
+            <name>x_1151057_pawpoint_pet_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 12:26:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 12:26:22</sys_updated_on>
+            <value>The Burmese Cat</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
